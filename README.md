@@ -23,19 +23,29 @@ A curated list of apps and websites for touch typing practice to help you improv
 
 ### 🪟 Windows
 - [**TouchTyper**](https://touch-typer.kochie.io/) - A clean, modern typing tutor.
+- [**Tipp10**](https://www.tipp10.com/en/) - A free touch typing tutor.
+- [**RapidTyping**](https://rapidtyping.com/) - Free typing tutor for Windows.
 - **Soni Typing Tutor** - Desktop version of the popular typing software.
 
 ### 🍎 macOS
 - [**TouchTyper**](https://touch-typer.kochie.io/) - A clean, modern typing tutor compatible with macOS.
+- [**Tipp10**](https://www.tipp10.com/en/) - A free touch typing tutor.
+- [**TypeFu**](https://type-fu.com/) - A simple and effective way to learn touch typing.
 
 ### 🐧 Linux
-*No items listed yet. Know a good Linux typing app? [Submit a PR!](#contributing)*
+- [**KTouch**](https://apps.kde.org/ktouch/) - A touch typing tutor for the KDE desktop.
+- [**GNU Typist**](https://www.gnu.org/software/gtypist/) - A universal typing tutor.
+- [**Tipp10**](https://www.tipp10.com/en/) - A free touch typing tutor.
 
 ## 🌐 Websites
 
 - [**keybr.com**](https://www.keybr.com) - Uses statistics and smart algorithms to create typing lessons tailored to your skill level.
+- [**Monkeytype**](https://monkeytype.com) - A minimalistic and customizable typing website.
 - [**10fastfingers.com**](https://10fastfingers.com) - A classic one-minute typing test to benchmark your speed against others.
+- [**TypeRacer**](https://play.typeracer.com) - Race against others by typing quotes from books and movies.
 - [**typing.com**](https://www.typing.com) - Comprehensive lessons, games, and curriculum for students and teachers.
+- [**TypingClub**](https://www.typingclub.com) - Free web-based typing tutor.
+- [**Nitro Type**](https://www.nitrotype.com) - Competitive typing game with cars.
 
 ---
 
