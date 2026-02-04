@@ -42,6 +42,21 @@ Before you type a single word, check your setup. Poor posture leads to fatigue a
 *   **Elbows**: Bent at a ~90° angle.
 *   **Screen**: Eye level, 45-70cm away.
 *   **Wrists**: Floating or lightly resting on a pad—**never** bent upwards or bearing your body weight.
+*   **Keyboard**: Consider a **Mechanical Keyboard**. Switches with tactile feedback (like Brown or Blue switches) can help your fingers "feel" the actuation point, improving accuracy.
+
+### 🏁 Speed Benchmarks
+Where do you stand?
+*   **Beginner:** 0 - 30 WPM (Often "Hunt and Peck").
+*   **Average:** 40 - 50 WPM (Functional speed).
+*   **Productive:** 60 - 70 WPM (Professional standard).
+*   **High Performance:** 80 - 100 WPM (Fluid thought-to-text).
+*   **Competitive:** 120+ WPM (Top 1% of typists).
+
+### ⌨️ Alternative Layouts
+While QWERTY is standard, other layouts are optimized for efficiency:
+*   **QWERTY**: The universal standard. Great for compatibility.
+*   **Dvorak**: Designed to reduce finger motion by placing vowels on the home row. High learning curve, high comfort potential.
+*   **Colemak**: Modern layout. Keeps many QWERTY shortcuts (Ctrl+Z/X/C/V) but optimizes the rest. Easier transition than Dvorak.
 
 ### 🗺️ The Map: 10-Finger Placement
 
