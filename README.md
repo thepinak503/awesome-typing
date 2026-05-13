@@ -346,4 +346,3 @@ Contributions are welcome and encouraged! Please follow these guidelines:
 Made with ❤️ for fast typists everywhere.
 
 </div>
-```
